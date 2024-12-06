@@ -41,7 +41,7 @@ A responsive and user-friendly real estate search webpage that helps users find 
 ## **Usage**
 1. Clone or download the repository:
    ```bash
-   git clone 
+   git clone https://github.com/latha0001/Simple-Search-website
    ```
 2. Open the `index.html` file in a web browser.
 
