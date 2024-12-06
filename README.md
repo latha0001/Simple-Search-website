@@ -49,9 +49,12 @@ A responsive and user-friendly real estate search webpage that helps users find 
 
 ## **Screenshots**
 ### Home Page
+![Screenshot 2024-12-06 104624](https://github.com/user-attachments/assets/5d307f4f-e4ad-40da-85a7-5f55f71b8edf)
 
 
 ### Search Results
+![Screenshot 2024-12-06 104635](https://github.com/user-attachments/assets/4cc4786b-e472-42f2-88a8-90dab22e8284)
+
 
 ## **Contact**
 If you have any questions or feedback, feel free to contact me:
