@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Real Estate Search</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Find Your Dream Home</h1>
+    </header>
+    </div>
+    <main>
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Enter location or keyword..." />
+
+        <button id="searchBtn">Search</button>
+      </div>
+      <br></br> 
+      <div class="filters">
+        <label for="propertyType">Property Type:</label>
+        <select id="propertyType">
+          <option value="all">All</option>
+          <option value="house">House</option>
+          <option value="apartment">Apartment</option>
+          <option value="commercial">Commercial</option>
+        </select>
+        <label for="priceRange">Price Range:</label>
+        <select id="priceRange">
+          <option value="all">Any</option>
+          <option value="low">Below $200,000</option>
+          <option value="mid">$200,000 - $500,000</option>
+          <option value="high">Above $500,000</option>
+        </select>
+      </div>
+      <div id="results" class="results">
+        <!-- Property results will appear here -->
+      </div>
+    </main>
+    <br> </br>
+    <!-- Contact Section -->
+    <section class="contact">
+      <h2>Contact Us</h2>
+      <p>If you have any questions or need assistance, feel free to reach out to us:</p>
+      <ul>
+        <li>Email: <a href="mailto:kurry@realestatesearch.com">kurry@realestatesearch.com</a></li>
+        <li>Phone: <a href="tel:+919876543210">+91 9876543210</a></li>
+        <li>Address: 123 Dream Home Nadimithanda, Parshu villa, Talangana, IND</li>
+      </ul>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+      <div class="footer-content">
+        <p>&copy; 2024 Real Estate Search. All Rights Reserved.</p>
+        <p>
+          Follow us:
+          <a href="https://www.facebook.com" target="_blank">Facebook</a> |
+          <a href="https://www.twitter.com" target="_blank">Twitter</a> |
+          <a href="https://www.instagram.com" target="_blank">Instagram</a>
+        </p>
+        <p class="footer-content">Made with ❤️ by Latha Kadavath</p>
+      </div>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
